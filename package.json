@@ -1,6 +1,6 @@
 {
   "name": "foundation-lean-grid",
-  "version": "v-alpha-1",
+  "version": "v0.0.0-alpha-1",
   "description": "Float-based SASS grid utility library based on Zurb Foundation 6.3's float-based grid.",
   "author": "Levente",
   "license": "MIT"
